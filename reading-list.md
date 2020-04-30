@@ -1,22 +1,22 @@
 ---
 title: Reading List
-subtitle: a list of books I read
+subtitle: books that i have read or am reading now
 layout: "page"
 icon: fa-book
 order: 3
 ---
 
-I love books! Here are some I'm reading now:
+I am a bibliophile. Classic fictions are my favourite. 
+I love talking about books.
 
-1. Robert Burton: *The Anatomy of Melancholy*
-2. Robert Musil: *The Man Without Qualities*
-3. Kazuo Ishiguro: *The Unconsoled*
-4. Malcolm Lowry: *Under the Volcano*
-5. Virginia Woolf: *The Waves*
-6. James Joyce: *Finnegans Wake*
-7. Thomas Wolfe: *Look Homeward, Angel*
-8. William Thackeray: *Pendennis*
-9. Karl Marx: *Capital*
-10. James Woodforde: *The Diary of A Country Parson*
+1. Mario Puzo: *The Godfather*
+2. Emily Bronte: *Wuthering Heights*
+3. Cal Newport: *Deep Work*
+4. F. Scott Fitzgerald: *The Great Gatsby*
+5. Alexandre Dumas: *The Count of Monte Cristo*
+6. Chuck Plahanuik: *Fight CLub*
+7. Walter Issacsson: *Steve Jobs*[Reading]
+8. William Golding: *Lord of the Flies*
+9. Stephen Hawkings: *A Breif History of Time*
+10.H.G. Wells: *The Invisible Man*
 
-source: [The Guardian](https://www.theguardian.com/books/booksblog/2011/jan/04/best-boring-books)
