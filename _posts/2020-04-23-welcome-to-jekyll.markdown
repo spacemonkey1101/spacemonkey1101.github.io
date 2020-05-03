@@ -10,4 +10,4 @@ I am new to blogging, so my sincerest appologies for any mistake.
 
 I am open to suggestion, criticism, advice and disscussions.
 
-*Thank You! Merci! Danke! Grazie! ধন্যবাদ! धन्यवाद !* for visiting.
+*Thank You! Merci! Danke! Grazie! ধন্যবাদ! धन्यवाद!* for visiting.
