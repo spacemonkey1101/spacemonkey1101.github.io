@@ -19,4 +19,7 @@ I love talking about books.
 8. William Golding: *Lord of the Flies*
 9. Stephen Hawkings: *A Breif History of Time*
 10.H.G. Wells: *The Invisible Man*
+11.Bernhard Schlink: *The Reader*
+12.George R. R. Martin: *A Game of Thrones*
+13.Christopher Marlowe: *Dr. Faustus*
 
