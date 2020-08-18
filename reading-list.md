@@ -15,11 +15,12 @@ I love talking about books.
 4. F. Scott Fitzgerald: *The Great Gatsby*
 5. Alexandre Dumas: *The Count of Monte Cristo*
 6. Chuck Plahanuik: *Fight CLub*
-7. Walter Issacsson: *Steve Jobs*[Reading]
+7. Walter Issacsson: *Steve Jobs*
 8. William Golding: *Lord of the Flies*
 9. Stephen Hawkings: *A Breif History of Time*
 10. H.G. Wells: *The Invisible Man*
 11. Bernhard Schlink: *The Reader*
 12. George R. R. Martin: *A Game of Thrones*
 13. Christopher Marlowe: *Dr. Faustus*
+14. Che Guevara: *Motorcycle Diaries*
 
