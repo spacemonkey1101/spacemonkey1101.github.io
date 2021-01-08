@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Welcome to My Blog!"
-date:   2020-04-23 16:12:41 +0530
+date:   2021-01-08 13:08:41 +0530
 categories: jekyll update
 ---
 
-Hello There! 
+
 I am new to blogging, so my sincerest appologies for any mistake.
 
 I am open to suggestion, criticism, advice and disscussions.
