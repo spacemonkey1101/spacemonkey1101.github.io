@@ -2,6 +2,17 @@
 title: Journey on KWOC 2020
 author: Ritam
 layout: post
+prev_title: false
+prev_link: false
+next_title: false
+next_link: false
+categories: open-source kwoc gsoc
+author: "Ritam Bhattacharyya"
+tags: opensource website static
+permalink: /journey-on-kwoc
 ---
 
-Lorem Ipsum
+<meta http-equiv="refresh" content="0; url=https://spacemonkey1101.medium.com/my-journey-at-kwoc-2020-bf962492626b" />
+
+<a href="https://spacemonkey1101.medium.com/my-journey-at-kwoc-2020-bf962492626b>
+         <h3>View on Medium</h3> </a>
