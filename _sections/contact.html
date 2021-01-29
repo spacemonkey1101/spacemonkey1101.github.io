@@ -6,15 +6,21 @@ order: 4
 
 <p>Feel free to connect with me. I would love to colaborate or have a conversation with you.</p>
 
-<form method="post" action="https://formspree.io/{{ site.email }}">
-  <div class="row">
-    <div class="6u 12u$(mobile)"><input type="text" name="name" placeholder="Name" /></div>
-    <div class="6u$ 12u$(mobile)"><input type="text" name="email" placeholder="Email" /></div>
-    <div class="12u$">
-      <textarea name="message" placeholder="Message"></textarea>
-    </div>
-    <div class="12u$">
-      <input type="submit" value="Send Message" />
-    </div>
-  </div>
+
+<form
+  action="https://formspree.io/f/ritambh54@gmail.com"
+  method="POST"
+>
+  <label>
+    Your email:
+    <input type="text" name="_replyto">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+
+  <!-- your other form fields go here -->
+
+  <button type="submit">Send</button>
 </form>
